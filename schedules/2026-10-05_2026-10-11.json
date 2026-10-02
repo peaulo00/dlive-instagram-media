@@ -1,0 +1,560 @@
+{
+  "brand": "DLive Studio",
+  "instagram_username": "dlivestudiooficial",
+  "approval": {
+    "status": "approved",
+    "source": "user approval in Codex conversation",
+    "approved_on": "2026-10-02",
+    "period": "2026-10-05/2026-10-11",
+    "scope": "7 feed posts and 21 image Stories"
+  },
+  "timezone": "America/Sao_Paulo",
+  "media_host": "GitHub public repository peaulo00/dlive-instagram-media",
+  "publication_state": "not_scheduled_or_published_by_this_export",
+  "jobs": [
+    {
+      "idempotency_key": "dlive:2026-10-05:story:01",
+      "date": "2026-10-05",
+      "publish_at": "2026-10-05T08:30:00-03:00",
+      "sequence": 1,
+      "channel": "instagram_story",
+      "format": "image",
+      "image_url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-05/story-01.jpg",
+      "image": {
+        "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-05/story-01.jpg",
+        "sha256": "e5ed55680eefb95a10518f11a1eb2bfedcbbc934ed2b77126a0678ae222a79d3",
+        "bytes": 447593
+      },
+      "status": "approved_not_scheduled"
+    },
+    {
+      "idempotency_key": "dlive:2026-10-05:story:02",
+      "date": "2026-10-05",
+      "publish_at": "2026-10-05T08:35:00-03:00",
+      "sequence": 2,
+      "channel": "instagram_story",
+      "format": "image",
+      "image_url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-05/story-02.jpg",
+      "image": {
+        "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-05/story-02.jpg",
+        "sha256": "8df3adc81aeff1db20d75c56d5d667ef26c43ea7775c2527104e378fe91e0568",
+        "bytes": 397803
+      },
+      "status": "approved_not_scheduled"
+    },
+    {
+      "idempotency_key": "dlive:2026-10-05:story:03",
+      "date": "2026-10-05",
+      "publish_at": "2026-10-05T08:40:00-03:00",
+      "sequence": 3,
+      "channel": "instagram_story",
+      "format": "image",
+      "image_url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-05/story-03.jpg",
+      "image": {
+        "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-05/story-03.jpg",
+        "sha256": "89008ae9128577ef589f66a369729f127ef79977a52810d203be65b277e7160d",
+        "bytes": 438438
+      },
+      "status": "approved_not_scheduled"
+    },
+    {
+      "idempotency_key": "dlive:2026-10-05:feed",
+      "date": "2026-10-05",
+      "publish_at": "2026-10-05T09:00:00-03:00",
+      "channel": "instagram_feed",
+      "format": "carousel",
+      "caption": "A primeira live começa com decisões que cabem numa conversa: o que demonstrar, como comprar e quem dá apoio.\n\nFaça o teste com sua equipe. Se alguma resposta ainda estiver vaga, vocês já encontraram um ponto para preparar antes da transmissão.\n\nA DLive Studio organiza a operação conforme o estágio da marca, do planejamento à produção. Salve estas três perguntas para usar na próxima reunião.\n\n#DLiveStudio #LiveShopping #Ecommerce #VendasAoVivo #SocialCommerce",
+      "image_urls": [
+        "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-05/slide-01.jpg",
+        "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-05/slide-02.jpg",
+        "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-05/slide-03.jpg",
+        "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-05/slide-04.jpg",
+        "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-05/slide-05.jpg"
+      ],
+      "slides": [
+        {
+          "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-05/slide-01.jpg",
+          "sha256": "bbcabc9f5ebc64f83becc1f3293ed7b1ab32ec63bcc60450b6623be6ebb8bdca",
+          "bytes": 363593
+        },
+        {
+          "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-05/slide-02.jpg",
+          "sha256": "b05d7abe829fb7b3efdeb8e1c1b4f83781e7bbb8e0f1ecd1bcdf8a25d3c24521",
+          "bytes": 378118
+        },
+        {
+          "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-05/slide-03.jpg",
+          "sha256": "db18090416c30b75eff4611597abd402f2d9a2eb4e40111077f1a9053641220b",
+          "bytes": 327042
+        },
+        {
+          "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-05/slide-04.jpg",
+          "sha256": "10e51345a188d8926fa00f3d1022f2a01199c9ae259a60cc26830d505d78e78b",
+          "bytes": 359097
+        },
+        {
+          "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-05/slide-05.jpg",
+          "sha256": "a9e4f377aa326111e91a8d6dbcc55156f7811e9975526674b1075ac02b94c92d",
+          "bytes": 324862
+        }
+      ],
+      "status": "approved_not_scheduled"
+    },
+    {
+      "idempotency_key": "dlive:2026-10-06:story:01",
+      "date": "2026-10-06",
+      "publish_at": "2026-10-06T08:30:00-03:00",
+      "sequence": 1,
+      "channel": "instagram_story",
+      "format": "image",
+      "image_url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-06/story-01.jpg",
+      "image": {
+        "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-06/story-01.jpg",
+        "sha256": "3d4b6fd8e4b7aad40fbf021dc0b6e0ccc256cf15ab3f40746025e2968078db01",
+        "bytes": 374551
+      },
+      "status": "approved_not_scheduled"
+    },
+    {
+      "idempotency_key": "dlive:2026-10-06:story:02",
+      "date": "2026-10-06",
+      "publish_at": "2026-10-06T08:35:00-03:00",
+      "sequence": 2,
+      "channel": "instagram_story",
+      "format": "image",
+      "image_url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-06/story-02.jpg",
+      "image": {
+        "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-06/story-02.jpg",
+        "sha256": "3d43ec1637432329a088a6c4fbc9a8b89c85016f3693c737d4a224a92c76c16d",
+        "bytes": 377022
+      },
+      "status": "approved_not_scheduled"
+    },
+    {
+      "idempotency_key": "dlive:2026-10-06:story:03",
+      "date": "2026-10-06",
+      "publish_at": "2026-10-06T08:40:00-03:00",
+      "sequence": 3,
+      "channel": "instagram_story",
+      "format": "image",
+      "image_url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-06/story-03.jpg",
+      "image": {
+        "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-06/story-03.jpg",
+        "sha256": "81e60bb2ccad191ba3d2b8f147953b518e9d83a6088042bf9d5086379bca11f3",
+        "bytes": 403748
+      },
+      "status": "approved_not_scheduled"
+    },
+    {
+      "idempotency_key": "dlive:2026-10-06:feed",
+      "date": "2026-10-06",
+      "publish_at": "2026-10-06T09:00:00-03:00",
+      "channel": "instagram_feed",
+      "format": "image",
+      "caption": "No áudio para um amigo, a explicação sai. Quando liga a câmera, você começa a procurar a frase perfeita?\n\nExperimente: grave um áudio curto explicando um objeto como faria numa conversa. Ouça e escolha a ideia principal. Depois grave um vídeo mostrando o mesmo objeto e explicando essa ideia, sem decorar cada palavra.\n\nCompare as duas versões: qual parece mais clara e natural? Esse é um exercício de prática, sem obrigação de publicar. A DLive treina creators em apresentação, demonstração e interação.\n\nEnvie para alguém que sempre diz “eu travo na câmera”.\n\n#DLiveStudio #CriadoresDeConteudo #TreinamentoDeCreators #Comunicacao #LiveShopping",
+      "image_urls": [
+        "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-06/slide-01.jpg"
+      ],
+      "slides": [
+        {
+          "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-06/slide-01.jpg",
+          "sha256": "a82f206bb60fe89ffacce294cc4ae0e6968d226afd54d820bbfeb5e74e6729ca",
+          "bytes": 240699
+        }
+      ],
+      "status": "approved_not_scheduled"
+    },
+    {
+      "idempotency_key": "dlive:2026-10-07:story:01",
+      "date": "2026-10-07",
+      "publish_at": "2026-10-07T08:30:00-03:00",
+      "sequence": 1,
+      "channel": "instagram_story",
+      "format": "image",
+      "image_url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-07/story-01.jpg",
+      "image": {
+        "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-07/story-01.jpg",
+        "sha256": "291f96c7c55b389e780affe37489617ebac3e8a938af6f899ab73021ad637186",
+        "bytes": 428781
+      },
+      "status": "approved_not_scheduled"
+    },
+    {
+      "idempotency_key": "dlive:2026-10-07:story:02",
+      "date": "2026-10-07",
+      "publish_at": "2026-10-07T08:35:00-03:00",
+      "sequence": 2,
+      "channel": "instagram_story",
+      "format": "image",
+      "image_url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-07/story-02.jpg",
+      "image": {
+        "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-07/story-02.jpg",
+        "sha256": "a81e73fa10f61697527b72ce164d55cbd2494f7afa9ad57e7a872d1c044d572b",
+        "bytes": 331410
+      },
+      "status": "approved_not_scheduled"
+    },
+    {
+      "idempotency_key": "dlive:2026-10-07:story:03",
+      "date": "2026-10-07",
+      "publish_at": "2026-10-07T08:40:00-03:00",
+      "sequence": 3,
+      "channel": "instagram_story",
+      "format": "image",
+      "image_url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-07/story-03.jpg",
+      "image": {
+        "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-07/story-03.jpg",
+        "sha256": "507b2882cc56e074e0e56dd4eaae5650089cb375d4a8e357d52383d5319d2cea",
+        "bytes": 439649
+      },
+      "status": "approved_not_scheduled"
+    },
+    {
+      "idempotency_key": "dlive:2026-10-07:feed",
+      "date": "2026-10-07",
+      "publish_at": "2026-10-07T09:00:00-03:00",
+      "channel": "instagram_feed",
+      "format": "image",
+      "caption": "Faça o caminho que você está pedindo ao cliente para fazer.\n\nAbra no celular o link usado na divulgação. Confira se ele leva ao produto certo, se preço e entrega estão claros e se dá para avançar até o pagamento. Você não precisa concluir uma compra para identificar dúvidas no caminho.\n\nAnote o primeiro ponto em que precisou procurar uma informação. Ele merece atenção antes de ampliar a divulgação. A DLive trabalha página, e-commerce, conteúdo e tráfego conforme a necessidade da marca.\n\nSalve para testar antes da próxima campanha.\n\n#DLiveStudio #Ecommerce #TrafegoPago #JornadaDeCompra #MarketingDigital",
+      "image_urls": [
+        "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-07/slide-01.jpg"
+      ],
+      "slides": [
+        {
+          "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-07/slide-01.jpg",
+          "sha256": "7731ec6b2b0acd38e43649ea043814f4e5a676b24e63c294874c02906a47ac84",
+          "bytes": 328313
+        }
+      ],
+      "status": "approved_not_scheduled"
+    },
+    {
+      "idempotency_key": "dlive:2026-10-08:story:01",
+      "date": "2026-10-08",
+      "publish_at": "2026-10-08T08:30:00-03:00",
+      "sequence": 1,
+      "channel": "instagram_story",
+      "format": "image",
+      "image_url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-08/story-01.jpg",
+      "image": {
+        "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-08/story-01.jpg",
+        "sha256": "89b38fa26eba18d6c9841a908da41e40daeef3fd24beaf8a7876ecc251276d71",
+        "bytes": 383750
+      },
+      "status": "approved_not_scheduled"
+    },
+    {
+      "idempotency_key": "dlive:2026-10-08:story:02",
+      "date": "2026-10-08",
+      "publish_at": "2026-10-08T08:35:00-03:00",
+      "sequence": 2,
+      "channel": "instagram_story",
+      "format": "image",
+      "image_url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-08/story-02.jpg",
+      "image": {
+        "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-08/story-02.jpg",
+        "sha256": "a1a820d2855347c700dbb9b6237cc6844c583eb57628172d3033bab712c39abe",
+        "bytes": 387992
+      },
+      "status": "approved_not_scheduled"
+    },
+    {
+      "idempotency_key": "dlive:2026-10-08:story:03",
+      "date": "2026-10-08",
+      "publish_at": "2026-10-08T08:40:00-03:00",
+      "sequence": 3,
+      "channel": "instagram_story",
+      "format": "image",
+      "image_url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-08/story-03.jpg",
+      "image": {
+        "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-08/story-03.jpg",
+        "sha256": "0425acf2e97c9d631d3e4b18f333705b4be61916446d79defc6202cda7467fd1",
+        "bytes": 428137
+      },
+      "status": "approved_not_scheduled"
+    },
+    {
+      "idempotency_key": "dlive:2026-10-08:feed",
+      "date": "2026-10-08",
+      "publish_at": "2026-10-08T09:00:00-03:00",
+      "channel": "instagram_feed",
+      "format": "carousel",
+      "caption": "Uma pergunta inesperada pode deixar qualquer apresentação mais difícil. Ter uma forma de pedir confirmação ajuda a manter a conversa organizada.\n\nUse as três frases como apoio, com suas palavras. Antes da live, combine quem confirma dados do produto e como a resposta volta até você. Se a informação continuar indisponível, diga isso com clareza.\n\nA DLive inclui interação e preparo na formação de creators. Salve para o seu próximo ensaio.\n\n#DLiveStudio #LiveShopping #TreinamentoDeCreators #ApresentacaoAoVivo #Comunicacao",
+      "image_urls": [
+        "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-08/slide-01.jpg",
+        "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-08/slide-02.jpg",
+        "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-08/slide-03.jpg",
+        "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-08/slide-04.jpg",
+        "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-08/slide-05.jpg"
+      ],
+      "slides": [
+        {
+          "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-08/slide-01.jpg",
+          "sha256": "1cffe4a3030ac4cd1978bb689b08ed0ac0b8ee950b189a0cdeecbfe405f347f3",
+          "bytes": 351192
+        },
+        {
+          "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-08/slide-02.jpg",
+          "sha256": "e152272985a590888d7df81ab3e74a15adb0f2572ae5c044856eb3174a5c8f2a",
+          "bytes": 341543
+        },
+        {
+          "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-08/slide-03.jpg",
+          "sha256": "3ffbe4b0d07a700c3fafa582ebcc65805ad5fa20c474006eba55d20f6a5c0ff0",
+          "bytes": 333990
+        },
+        {
+          "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-08/slide-04.jpg",
+          "sha256": "fef17012f2da611e56e4edafb6c4ed2ff539553357a48bd809f0be72154e4d3c",
+          "bytes": 321865
+        },
+        {
+          "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-08/slide-05.jpg",
+          "sha256": "92cab9bb1f6f25067043e4ce1d3487b366aba2ac8a52c6346401a6e10a9020ac",
+          "bytes": 375072
+        }
+      ],
+      "status": "approved_not_scheduled"
+    },
+    {
+      "idempotency_key": "dlive:2026-10-09:story:01",
+      "date": "2026-10-09",
+      "publish_at": "2026-10-09T08:30:00-03:00",
+      "sequence": 1,
+      "channel": "instagram_story",
+      "format": "image",
+      "image_url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-09/story-01.jpg",
+      "image": {
+        "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-09/story-01.jpg",
+        "sha256": "a824517f9c9d9b36d6f01a2160621c633459d88fc4e4a79999b13764abb48d70",
+        "bytes": 394754
+      },
+      "status": "approved_not_scheduled"
+    },
+    {
+      "idempotency_key": "dlive:2026-10-09:story:02",
+      "date": "2026-10-09",
+      "publish_at": "2026-10-09T08:35:00-03:00",
+      "sequence": 2,
+      "channel": "instagram_story",
+      "format": "image",
+      "image_url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-09/story-02.jpg",
+      "image": {
+        "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-09/story-02.jpg",
+        "sha256": "bb000423d627143bf63005b81cddd327520bdf5540fa657bf452ad22953cb751",
+        "bytes": 403682
+      },
+      "status": "approved_not_scheduled"
+    },
+    {
+      "idempotency_key": "dlive:2026-10-09:story:03",
+      "date": "2026-10-09",
+      "publish_at": "2026-10-09T08:40:00-03:00",
+      "sequence": 3,
+      "channel": "instagram_story",
+      "format": "image",
+      "image_url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-09/story-03.jpg",
+      "image": {
+        "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-09/story-03.jpg",
+        "sha256": "a38bb83e21cd1bcda9f4bc005da9c353b23f13840b1d0947c12c8fc30c1598dc",
+        "bytes": 424218
+      },
+      "status": "approved_not_scheduled"
+    },
+    {
+      "idempotency_key": "dlive:2026-10-09:feed",
+      "date": "2026-10-09",
+      "publish_at": "2026-10-09T09:00:00-03:00",
+      "channel": "instagram_feed",
+      "format": "carousel",
+      "caption": "Você está demonstrando um produto. Aparece uma pergunta no chat. Outra pessoa não encontra o link. Quem acompanha cada situação?\n\nEsse é um exemplo de planejamento: as responsabilidades precisam estar combinadas, mesmo numa equipe pequena. Uma pessoa pode acumular funções quando isso for viável; o importante é saber quem assume cada tarefa.\n\nA DLive coordena pessoas, produção e preparo conforme o projeto. Envie este carrossel para quem vai organizar a próxima live com você.\n\n#DLiveStudio #LiveShopping #ProducaoDeConteudo #Creators #SocialCommerce",
+      "image_urls": [
+        "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-09/slide-01.jpg",
+        "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-09/slide-02.jpg",
+        "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-09/slide-03.jpg",
+        "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-09/slide-04.jpg",
+        "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-09/slide-05.jpg"
+      ],
+      "slides": [
+        {
+          "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-09/slide-01.jpg",
+          "sha256": "5dd42e7bd96e536aae2578aa5285489f2173064fb973fcaf18cdbc5032995366",
+          "bytes": 328432
+        },
+        {
+          "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-09/slide-02.jpg",
+          "sha256": "9c8525099ea8d6077999e39a40f4c80f707022bfedde94c7bf4040c7b09afb84",
+          "bytes": 338740
+        },
+        {
+          "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-09/slide-03.jpg",
+          "sha256": "949aec8904888252790e9a2b1e1f1a28c29d65bae270b04bf275643ef3c99d39",
+          "bytes": 308380
+        },
+        {
+          "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-09/slide-04.jpg",
+          "sha256": "1cbd42f22d82a7b6d89393a2912c07220219d0608c83a0f6b918cffd1c3ad622",
+          "bytes": 328794
+        },
+        {
+          "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-09/slide-05.jpg",
+          "sha256": "2cf104a68d2d07b18f306f0304c79e9d71c1690ebbd500fa0e3a52630c31eb3d",
+          "bytes": 301967
+        }
+      ],
+      "status": "approved_not_scheduled"
+    },
+    {
+      "idempotency_key": "dlive:2026-10-10:story:01",
+      "date": "2026-10-10",
+      "publish_at": "2026-10-10T08:30:00-03:00",
+      "sequence": 1,
+      "channel": "instagram_story",
+      "format": "image",
+      "image_url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-10/story-01.jpg",
+      "image": {
+        "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-10/story-01.jpg",
+        "sha256": "679b301887ec3aac1f88ba7a0783c74e82a2c22d0b652979d64226a296b5d4e6",
+        "bytes": 388949
+      },
+      "status": "approved_not_scheduled"
+    },
+    {
+      "idempotency_key": "dlive:2026-10-10:story:02",
+      "date": "2026-10-10",
+      "publish_at": "2026-10-10T08:35:00-03:00",
+      "sequence": 2,
+      "channel": "instagram_story",
+      "format": "image",
+      "image_url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-10/story-02.jpg",
+      "image": {
+        "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-10/story-02.jpg",
+        "sha256": "2b38b49d47544076e78a17debda041f330b3c5831e51d93c724a6ef3672c09ef",
+        "bytes": 376189
+      },
+      "status": "approved_not_scheduled"
+    },
+    {
+      "idempotency_key": "dlive:2026-10-10:story:03",
+      "date": "2026-10-10",
+      "publish_at": "2026-10-10T08:40:00-03:00",
+      "sequence": 3,
+      "channel": "instagram_story",
+      "format": "image",
+      "image_url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-10/story-03.jpg",
+      "image": {
+        "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-10/story-03.jpg",
+        "sha256": "f54808cc03f490ee0e638d69544ab19bd3933cd4c94a0a9b605092b5f8c3eebb",
+        "bytes": 420997
+      },
+      "status": "approved_not_scheduled"
+    },
+    {
+      "idempotency_key": "dlive:2026-10-10:feed",
+      "date": "2026-10-10",
+      "publish_at": "2026-10-10T09:00:00-03:00",
+      "channel": "instagram_feed",
+      "format": "carousel",
+      "caption": "Responder automaticamente é uma parte do atendimento. Vale testar também o que acontece quando aquela resposta não resolve.\n\nSimule um pedido de ajuda, confira se alguém recebe o contexto e veja o que o cliente fica sabendo sobre o próximo passo. Você terá um teste concreto para revisar o fluxo com a equipe.\n\nA DLive trabalha IA e automações conforme a necessidade da marca. Qual dessas etapas ainda precisa de organização no seu negócio? Conte por DM.\n\n#DLiveStudio #AutomacaoDeMarketing #AtendimentoDigital #InteligenciaArtificial #ExperienciaDoCliente",
+      "image_urls": [
+        "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-10/slide-01.jpg",
+        "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-10/slide-02.jpg",
+        "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-10/slide-03.jpg",
+        "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-10/slide-04.jpg",
+        "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-10/slide-05.jpg"
+      ],
+      "slides": [
+        {
+          "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-10/slide-01.jpg",
+          "sha256": "046a7058b41db64e5afc7472f3e59dc6491794a9394970d8c0ccaf9f1f7cb528",
+          "bytes": 345391
+        },
+        {
+          "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-10/slide-02.jpg",
+          "sha256": "d99eb75aecb0eeccb7b7051760a25a79de25d0fae211144f3acc55cad43b344f",
+          "bytes": 337518
+        },
+        {
+          "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-10/slide-03.jpg",
+          "sha256": "d080ac7776761e0f153a9880ce6af5aa408fd1a04c2060d8d7418b0a5ba40e2f",
+          "bytes": 282637
+        },
+        {
+          "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-10/slide-04.jpg",
+          "sha256": "8b2bd0ae0d59034427a9e164e12d54b58dc3c679de20d8732ba1fe73ac1dafbb",
+          "bytes": 322668
+        },
+        {
+          "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-10/slide-05.jpg",
+          "sha256": "b0b6f6323a90c233f2476c7546fede96930cbfa38d41bd9eeecb1e6023f931e0",
+          "bytes": 317897
+        }
+      ],
+      "status": "approved_not_scheduled"
+    },
+    {
+      "idempotency_key": "dlive:2026-10-11:story:01",
+      "date": "2026-10-11",
+      "publish_at": "2026-10-11T08:30:00-03:00",
+      "sequence": 1,
+      "channel": "instagram_story",
+      "format": "image",
+      "image_url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-11/story-01.jpg",
+      "image": {
+        "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-11/story-01.jpg",
+        "sha256": "9aa9eb0afa43ccd3f7d0d43b9fa11514e89dfe83f97b549dfd03b8c91eabf367",
+        "bytes": 403354
+      },
+      "status": "approved_not_scheduled"
+    },
+    {
+      "idempotency_key": "dlive:2026-10-11:story:02",
+      "date": "2026-10-11",
+      "publish_at": "2026-10-11T08:35:00-03:00",
+      "sequence": 2,
+      "channel": "instagram_story",
+      "format": "image",
+      "image_url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-11/story-02.jpg",
+      "image": {
+        "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-11/story-02.jpg",
+        "sha256": "0fb6a597920ffb43c8510221957576cb58cd7af8e909197332debb555810eccd",
+        "bytes": 358956
+      },
+      "status": "approved_not_scheduled"
+    },
+    {
+      "idempotency_key": "dlive:2026-10-11:story:03",
+      "date": "2026-10-11",
+      "publish_at": "2026-10-11T08:40:00-03:00",
+      "sequence": 3,
+      "channel": "instagram_story",
+      "format": "image",
+      "image_url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-11/story-03.jpg",
+      "image": {
+        "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/stories/2026-10-11/story-03.jpg",
+        "sha256": "fc858e5e47a5e1925b34fba4899d0ffc40629e38f581d129e7d531c5a1238a55",
+        "bytes": 441994
+      },
+      "status": "approved_not_scheduled"
+    },
+    {
+      "idempotency_key": "dlive:2026-10-11:feed",
+      "date": "2026-10-11",
+      "publish_at": "2026-10-11T09:00:00-03:00",
+      "channel": "instagram_feed",
+      "format": "image",
+      "caption": "“É incrível” conta a sua opinião. “Veja os relevos nesta peça” orienta o olhar de quem ainda não conhece o produto.\n\nNa tirinha, a creator troca o elogio genérico por um detalhe que a câmera consegue mostrar. Experimente no próximo ensaio: escolha um detalhe, mostre de perto e explique o que a pessoa está vendo.\n\nDepois, responda a uma dúvida com informação confirmada. A DLive treina creators para apresentar, demonstrar e conversar com o público.\n\nEnvie para quem grava demonstrações com você.\n\n#DLiveStudio #DemonstracaoDeProduto #CriadoresDeConteudo #LiveShopping #TreinamentoDeCreators",
+      "image_urls": [
+        "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-11/slide-01.jpg"
+      ],
+      "slides": [
+        {
+          "url": "https://raw.githubusercontent.com/peaulo00/dlive-instagram-media/main/feed/2026-10-11/slide-01.jpg",
+          "sha256": "9879ac089b9a8ed3191dd8b2bb919ddae073c1e0c104cd4eb550f2af17632bd1",
+          "bytes": 453546
+        }
+      ],
+      "status": "approved_not_scheduled"
+    }
+  ]
+}
